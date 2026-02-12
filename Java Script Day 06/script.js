@@ -54,4 +54,6 @@ console.log(a) //cant access a
     b=a;
     console.log(a)
 })()
+
 console.log(b) //can access a a variable after assignment
+
