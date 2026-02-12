@@ -47,4 +47,5 @@ function palindrome() {
     }
     return "palindrome";
 }
+
 console.log(palindrome())
