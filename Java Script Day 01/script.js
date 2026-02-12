@@ -27,4 +27,5 @@ function demo(){
     console.log("demo")
 }
 
+
 sample(demo)
