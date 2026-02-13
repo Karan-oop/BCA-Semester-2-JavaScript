@@ -26,4 +26,5 @@ let numbers = [1, 2, 3, 4, 5];
 let sum = numbers.reduce((acc, current) => acc+current);
 console.log(sum)
 // acc=1,index:0
+
 // current:rest of the elements apart from index:0
