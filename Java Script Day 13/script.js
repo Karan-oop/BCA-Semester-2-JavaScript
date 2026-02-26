@@ -1,3 +1,5 @@
+// script.js Day 11 change the whole code to copy of day 11
+
 // function handleClick(){
 //     document.querySelector("#head").style.color="red";
 
